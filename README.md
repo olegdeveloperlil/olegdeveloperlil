@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @olegdeveloperlil
-- 👀 I’m interested in backend python
-- 🌱 I’m currently learning begginer backend
-- 📫 How to reach me telegram https://t.me/esscroll
+
